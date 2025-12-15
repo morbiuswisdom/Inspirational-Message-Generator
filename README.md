@@ -45,8 +45,43 @@ The program uses three separate arrays containing:
 Each time the script runs, it randomly selects one item from each array and combines them to form an inspirational message.
 The logic is kept simple, clean, and easy to modify for beginners.
 
+---
 
+## 🛠️ Technologies Used
+- JavaScript (ES6)
+- Node.js
+- Git & GitHub
+- VSCode
 
+---
+
+## Project Structure
+inspirational-message-generator/
+│
+├── script.js        # Main program logic
+└── README.md        # Documentation
+
+---
+
+## 🤝 Contributing
+Contributions, ideas, and suggestions are welcome!
+Feel free to open an issue or submit a pull request.
+
+---
+
+## 📜 License
+This project is open source and available under the MIT License.
+
+---
+
+## 🙌 Acknowledgements
+Built as part of the Codecademy Full-Stack Engineer Career Path to practice JavaScript, Git, and Node fundamentals.
+
+---
+
+## 🤝 Connect With Me
+✉ dev@wisdomodewumi.com
+🔗 [Visit My Website](https://wisdomodewumi.com/)
 
   
 
